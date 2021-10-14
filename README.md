@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N-Deepika&theme=midnight-purple&stroke=50055C)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=N-Deepika&theme=midnight-purple&stroke=50055C)](https://git.io/streak-stats) 
+<img src="https://c.tenor.com/0kGilZlNEQ8AAAAC/jungkook-jungkook-keyboard.gif" width="300px" height="195px" />
+
 <img src="https://activity-graph.herokuapp.com/graph?username=n-deepika&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false">
 
