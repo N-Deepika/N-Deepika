@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web-Development 
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Back-end development 
-- 💬 Ask me about Cloud Computing architectures
 - 📫 How to reach me: deepika282002@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You just need to find that out on your own.
