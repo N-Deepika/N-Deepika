@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You just need to find that out on your own.
 -->
 
-- 🔭 I’m currently working on Cloud Computing
-- 🌱 I’m currently learning Web-Development 
+- 🌱 I’m currently working on Web-Development 
+- ☁️ Cloud Computing Enthusiast 
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Back-end development 
 - 📫 How to reach me: deepika282002@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: You just need to find that out on your own.
